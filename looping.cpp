@@ -39,3 +39,7 @@ int main(){
     cout<<"Bilangan acak do-while yang terakhir ="<<x <<endl;
     cout<<endl;
 }
+
+Logika not
+#include <iostream>
+using namespace std;
