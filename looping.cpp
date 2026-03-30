@@ -65,3 +65,9 @@ int main(){
 
     return 0;
 }
+
+
+
+//Logika OR
+#include <iostream>
+using namespace std;
